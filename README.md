@@ -3,3 +3,5 @@
  
  Backend ruby on rails
  Postgresql banco de dados
+ Chamadas api google maps
+ Cors
