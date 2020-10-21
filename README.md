@@ -5,3 +5,7 @@
  Postgresql banco de dados
  Chamadas api google maps
  Cors
+ React google Maps
+ ReactJS
+ Axios
+ Conexão com api backend
