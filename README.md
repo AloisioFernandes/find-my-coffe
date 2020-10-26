@@ -1,5 +1,5 @@
 # Find my Coffee
- <p>Aplicação feita durante a Semana Super Full Stack da One Bit Code 19/10/2020 - 23/10/2020 com foco em Ruby on Rails, ReactJS e React Native. Find My Coffee permite que seus usuários visualizem pontos de cafés próximos em um raio de 5 km da localização atual</p>
+ <p>Aplicação feita durante a Semana Super Full Stack da One Bit Code 19/10/2020 - 23/10/2020 com foco em Ruby on Rails, ReactJS e React Native. Find My Coffee permite que seus usuários visualizem pontos de cafés próximos em um raio de 5 km da localização atual.</p>
 
 # Web
   <p><img align="center" src=".github/Projeto Web.png" alt="Home Web" width="800" border="0"></p>
